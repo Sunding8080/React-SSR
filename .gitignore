@@ -1,0 +1,8 @@
+# Dependency directories
+node_modules/
+
+# vscode plugin 
+.history
+
+# 打包目录
+dist
